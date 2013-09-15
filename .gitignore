@@ -1,0 +1,6 @@
+*.[od]
+*~
+*.swp
+*.elf
+build/
+gameyob.nds
